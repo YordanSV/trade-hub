@@ -1,0 +1,6 @@
+npm install express cassandra-driver
+npm install @emotion/react  
+npm install @emotion/styled     
+npm install @mui/material 
+npm install @mui/x-data-grid
+npm install axios
